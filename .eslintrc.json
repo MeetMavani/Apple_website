@@ -3,6 +3,7 @@
     "standard",
     "plugin:react/recommended",
     "plugin:tailwindcss/recommended",
+    "plugin:@react-three/recommended",
     "prettier"
   ],
   "rules": {
