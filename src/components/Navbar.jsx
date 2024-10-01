@@ -1,5 +1,6 @@
 import { appleImg, bagImg, searchImg } from "../utils";
 import { navLists } from "../constants";
+import { Link } from "react-router-dom"; // Import Link for navigation
 
 const Navbar = () => {
   return (
@@ -9,14 +10,16 @@ const Navbar = () => {
 
         <div className="flex flex-1 justify-center max-sm:hidden">
           {navLists.map((nav) => (
-            <div
+            <Link
               key={nav}
+              to={nav === "Mac" ? "/mac" : "#"}
               className="cursor-pointer px-5 text-sm text-gray transition-all hover:text-white"
             >
               {nav}
-            </div>
+            </Link>
           ))}
         </div>
+
         <div className="flex items-baseline gap-7 max-sm:flex-1 max-sm:justify-end">
           <img src={searchImg} alt="search" width={18} height={18} />
           <img src={bagImg} alt="bag" width={18} height={18} />
