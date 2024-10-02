@@ -8,6 +8,11 @@
   box-sizing: border-box;
 }
 
+#root {
+  height: 100%;
+  width: 100%;
+}
+
 body {
   color: white;
   width: 100dvw;
