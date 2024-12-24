@@ -751,9 +751,9 @@ Public Assets used in the project can be found [here](https://drive.google.com/f
 
 Follow these tutorials to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /><b>JavaScript Mastery for Apple website</b></a>
+<a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /><b> JavaScript Mastery for Apple website</b></a>
 
-<a href="https://youtube.com/watch?v=yItOSReV_f0" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /><b>Sheryians Coding School for Macbook page</b></a>
+<a href="https://youtube.com/watch?v=yItOSReV_f0" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /><b> Sheryians Coding School for Macbook page</b></a>
 
 If you prefer visual learning, this is the perfect resource for you.
 
